@@ -1,6 +1,6 @@
-# Docker ECS Project — Borderless Tech Academy API
+# CloudPulse API
 
-A Node.js REST API containerised with Docker and deployed to AWS ECS Fargate.
+A personal Node.js REST API containerised with Docker and deployed to AWS ECS Fargate.
 
 ## Tech Stack
 
